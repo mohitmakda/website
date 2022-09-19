@@ -150,7 +150,9 @@ h3{
 }
 .bottom-container{
     background-color: #66BFBF;
-    padding: 3.125rem 0 1.25px;
+/*     padding: 3.125rem 0 1.25px; */
+      padding: 3.125rem 0 0.0781rem;
+
 }
 
 
