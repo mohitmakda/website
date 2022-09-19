@@ -82,7 +82,8 @@ h3{
     position: absolute;
     bottom: 0px;
 /*     right: 550px; */
-    right:50%;
+    margin: 0% auto 0 auto;
+/*     right:50%; */
 }
 
 .middle-container{
