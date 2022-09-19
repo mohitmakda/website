@@ -1,0 +1,185 @@
+/* open-sans-regular - latin */
+
+
+body{
+    margin: 0px;
+    text-align: center;
+
+    /* refer lecture 50 to import fonts */
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+
+   
+}
+
+p{
+    line-height: 2;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.6 rem;
+    line-height: 2;
+    margin-top: 2.6rem rem;
+    padding-top: 100px;
+    font-family: 'Sacramento', cursive;
+    /* font-family: 'Merriweather', serif; */
+    /* 100pc or 1 rem in font size is 16px */
+    /* px are static(non-changable) but pc and rem are dynamic(changable) */
+}
+h2{
+    color: #66BFBF;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+    
+}
+
+h3{
+    color: #11999e;
+    font-family: 'Merriweather', serif;
+}
+
+.skill-row{
+    width: 50pc;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 3;
+}
+
+
+
+
+.top-container{
+    background-color: #d3f7f0;
+    height: 708px;
+    width: 1700px;
+    margin: 0%;
+    padding-top: 0;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 90px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.mountain{
+    position: absolute;
+    bottom: 0px;
+    right: 550px;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+.coding{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+   
+}
+.design-desc{
+    clear: left;
+}
+
+
+
+
+
+.communication{
+    width: 25%;
+    float: right;
+    margin-right: 90px;
+   
+}
+
+
+
+.communication-desc{
+    clear: right;
+}
+
+.intro{
+    /* width: 30%; */
+}
+
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+
+}
+.btn 
+{
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+   
+}
+      
+.btn:hover
+ 
+{
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #02a844);
+    background-image: -moz-linear-gradient(top, #30E3CB, #02a844);
+    background-image: -ms-linear-gradient(top, #30E3CB, #02a844);
+    background-image: -o-linear-gradient(top, #30E3CB, #02a844);
+    background-image: linear-gradient(to bottom, #30E3CB, #02a844);
+    text-decoration: none;
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+
+span{
+    text-decoration: underline;
+}
+
+
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+a{
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+ a:hover{
+    color: #eaf6f6;
+ }
+
+ .copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+ }
+
+    
+
+
+/* use margin:auto; to center the ::content */
