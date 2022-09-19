@@ -63,20 +63,26 @@ h3{
 
 .top-cloud{
     position: absolute;
-    right: 31.25rem;
-    top: 5.625rem;
+/*     right: 31.25rem;
+    top: 5.625rem; */
+    right: 25%;
+    top: 5%; 
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 25rem;
-    bottom: 18.75rem;
+/*     left: 25rem;
+    bottom: 18.75rem; */
+    left: 30%;
+    bottom: 40%;
+    
 }
 
 .mountain{
     position: absolute;
     bottom: 0px;
-    right: 550px;
+/*     right: 550px; */
+    right:50%;
 }
 
 .middle-container{
