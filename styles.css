@@ -178,6 +178,13 @@ a{
     color: #eaf6f6;
  }
 
+.footerlink{
+    color: #eaf6f6;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin: 0 30px;
+ }
+
  .copyright{
     color: #eaf6f6;
     font-size: 0.75rem;
