@@ -179,7 +179,8 @@ span{
 
 
 hr{
-    border: dotted #eaf6f6 6px;
+/*     border: dotted #eaf6f6 6px; */
+    border: dotted #6f7474 6px;
     border-bottom: none;
     width: 5%;
     margin: 100px auto;
