@@ -3,6 +3,7 @@
 
 body{
     margin: 0px;
+    margin-top: 0%;
     text-align: center;
 
     /* refer lecture 50 to import fonts */
@@ -52,22 +53,22 @@ h3{
 
 .top-container{
     background-color: #d3f7f0;
-    height: 708px;
-    width: 1700px;
+    height: 44.25rem;
+    width: 106.25rem;
     margin: 0%;
     padding-top: 0;
 }
 
 .top-cloud{
     position: absolute;
-    right: 500px;
-    top: 90px;
+    right: 31.25rem;
+    top: 5.625rem;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 400px;
-    bottom: 300px;
+    left: 25rem;
+    bottom: 18.75rem;
 }
 
 .mountain{
@@ -96,7 +97,7 @@ h3{
 .communication{
     width: 25%;
     float: right;
-    margin-right: 90px;
+    margin-right: 5.625rem;
    
 }
 
@@ -112,7 +113,7 @@ h3{
 
 .contact-me{
     width: 40%;
-    margin: 40px auto 60px;
+    margin: 2.5rem auto 3.75rem;
 
 }
 .btn 
@@ -148,7 +149,7 @@ h3{
 }
 .bottom-container{
     background-color: #66BFBF;
-    padding: 50px 0 20px;
+    padding: 3.125rem 0 1.25px;
 }
 
 
