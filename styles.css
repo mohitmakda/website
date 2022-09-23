@@ -90,6 +90,7 @@ h3{
 
 .middle-container{
     margin: 100px 0;
+    width:100%;
 }
 
 .center{
@@ -114,7 +115,7 @@ h3{
 .communication{
     width: 25%;
     float: right;
-    margin-right: 5.625rem;
+    margin-right: 20%;
    
 }
 
