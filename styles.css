@@ -107,7 +107,7 @@ h3{
 .design-desc{
     clear: left;
     display: inline-block;
-    width: 80%;
+    width: 40%;
     text-align: center;
     margin: 2.5rem auto 3.75rem ;
 }
@@ -128,7 +128,7 @@ h3{
 .communication-desc{
     clear: right;
     margin: 2.5rem auto 3.75rem ;
-    width: 80%;
+    width: 40%;
 }
 
 .intro{
