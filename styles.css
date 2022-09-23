@@ -127,6 +127,8 @@ h3{
 
 .communication-desc{
     clear: right;
+    margin: 2.5rem auto 3.75rem ;
+    width: 80%;
 }
 
 .intro{
