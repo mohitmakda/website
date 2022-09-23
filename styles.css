@@ -106,6 +106,10 @@ h3{
 }
 .design-desc{
     clear: left;
+    display: inline-block;
+    width: 80%;
+    text-align: center;
+    margin: 2.5rem auto 3.75rem ;
 }
 
 
