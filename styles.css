@@ -42,7 +42,7 @@ h3{
 }
 
 .skill-row{
-    width: 50pc;
+    width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
     line-height: 3;
@@ -105,19 +105,15 @@ h3{
    
 }
 .design-desc{
-/*     clear: left; */
-/*     display: inline-block; */
-/*     width: 40%; */
-/*     text-align: center; */
-/*     margin: 2.5rem auto 3.75rem ; */
-     clear: left;
-    display: inline-block;
-    width: 50%;
-    text-align: left;
-    margin: 0 auto 3.75rem ;
+    clear: left;
+    /* display: inline-block; */
+    
+    text-align: center;
+    margin: 2.75rem auto 3.75rem ;
     /* margin: 0px auto; */
     text-decoration: none;
-    /* line-height: 2; */
+    /* width: 100%; */
+    line-height: 2;
 }
 
 
