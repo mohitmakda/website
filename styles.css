@@ -105,11 +105,19 @@ h3{
    
 }
 .design-desc{
-    clear: left;
-    display: inline-block;
+/*     clear: left; */
+/*     display: inline-block; */
 /*     width: 40%; */
-    text-align: center;
-    margin: 2.5rem auto 3.75rem ;
+/*     text-align: center; */
+/*     margin: 2.5rem auto 3.75rem ; */
+     clear: left;
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    margin: 0 auto 3.75rem ;
+    /* margin: 0px auto; */
+    text-decoration: none;
+    /* line-height: 2; */
 }
 
 
@@ -128,7 +136,7 @@ h3{
 .communication-desc{
     clear: right;
     margin: 2.5rem auto 3.75rem ;
-    width: 40%;
+    width: 60%;
 }
 
 .intro{
