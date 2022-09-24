@@ -39,6 +39,10 @@ h2{
 h3{
     color: #11999e;
     font-family: 'Merriweather', serif;
+    margin: 0%;
+    text-align: left;
+    font-size: medium;
+    font-weight: normal;
 }
 
 .skill-row{
@@ -124,7 +128,7 @@ h3{
     width: 25%;
     float: right;
 /*     margin-right: 20%; */
-    margin-bottom:0;
+    margin-top:10px;
    
 }
 
